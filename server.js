@@ -44,5 +44,5 @@ function broadcastNewMessage(message) {
 }
 
 server.listen(PORT, () => {
-  console.log(`Сервер запущен на http://localhost:${PORT}`);
+  console.log(`Сервер запущен на https://airinlind.github.io/HTML5API-KT4/`);
 });
